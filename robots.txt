@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nurafni275.github.io/yunita-dumdum/sitemap.xml
